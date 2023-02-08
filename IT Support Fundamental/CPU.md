@@ -4,4 +4,4 @@
 - Cấu trúc `CPU` có thể phức tap, tuy nhiên có thể hình dung được nó bao gồm các thành phần sau:
 + Khối điều khiển (`CU - Control Unit`): có nhiệm vụ xử lý và thông dịch các lệnh của chương trình và điều khiển hoạt động xử lý, được điều tiết chính xác bởi xung nhịp đồng hồ hệ thống
 + Khối tính toán ALU (`Arithmetic Logic Unit`): Có chức năng thực hiện các lệnh của đơn vị `điều khiển` và `xử lý tín hiệu`
-+ Các thanh ghi (`Registers`)
++ Các thanh ghi (`Registers`): có nhiệm vụ `ghi mã lệnh` `trước` khi xử lý và ghi kết quả `sau` khi xử lý
