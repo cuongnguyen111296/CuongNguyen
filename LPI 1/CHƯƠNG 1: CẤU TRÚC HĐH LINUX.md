@@ -6,7 +6,7 @@
 - Shell là 1 chương trình. Có chức năng thực thi các lệnh (command) từ người dùng hoặc từ các ứng dụng - tiện ích yêu cầu chuyển đến cho Kernel xử lý. Bên cạnh đó, shell còn có khả năng bảo vệ từ các yêu cầu không hợp lệ.
 Các loại shell:
 - sh (the **Bourne Shell**): đây là chương trình nguyên thủy của `UNIX` được viết bởi `Stephen Bourne` vào năm `1974`. Đến nay, shell sh vẫn được sử dụng rộng rãi.
-- Bash (**urne-again Shell**): đây là shell mặc định trên `inux`
+- Bash (**bourne-again Shell**): đây là shell mặc định trên `linux`
 - csh (the **C Shell**): Shell được viết bằng ngôn ngữ lập trình C, được viết bởi `Bill Joy` vào năm `1978`
 - Ngoài ra còn có các loại shell khác như: ash, tsh, zsh
 Dấu nhắn Shell sẽ được thể hiện dưới 2 dạng sau:
