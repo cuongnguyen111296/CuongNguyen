@@ -1,1 +1,1 @@
-# ** I. Kiến trúc tổng quan hệ thống Linux **
+# **I. Kiến trúc tổng quan hệ thống Linux**
