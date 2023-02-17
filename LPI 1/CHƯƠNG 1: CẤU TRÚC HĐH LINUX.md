@@ -11,4 +11,4 @@ Dấu nhắn Shell sẽ được thể hiện dưới 2 dạng sau:
 - Dạng 1: [root@localhost root]# với dấu # thể hiện tài khoản đang sử dụng là tài khoản **root**
 - Dạng 2: [linux@localhost linux]$ với dấu $ thể hiện tài khoản đang sử dụng là user thông thường
 **3): Application**: là các ứng dụng và tiện ích mà người dùng sử dụng cài đặt trên server. ví dụ như: ftp, samba, Proxy, ...
-##**. Cấu trúc hệ thống file:**
+##**II. Cấu trúc hệ thống file:**
