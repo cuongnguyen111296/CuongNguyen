@@ -1,6 +1,6 @@
 # **I. Kiến trúc tổng quan hệ thống Linux**
   Kiến trúc HDH Linux chia là 3 thành phần: Kernel, Shell và Applications
-![a]<img src="[https://imgur.com/l2sK4Os](https://imgur.com/l2sK4Os)">
+<img src="https://1drv.ms/u/s!Asf6YfCv6rT3hMVUK6zFP8OiF1YDew?e=K5SYL8">
 ## **1) Kernel (Nhân)**: 
 Đây là phần quan trong và được ví như trái tim của HDH, phần Kernel `chứa các module, thư viện` để `quản lý và giao tiếp` giữa `phần cứng` và `các ứng dụng`. Kernel trên Centos 7 có version 3.10.0.
 ## **2) Shell**: 
